@@ -1,2 +1,2 @@
 # openvpn-monitor
-Show connected openvpn clients
+Shows connected openvpn clients in a colorized output
